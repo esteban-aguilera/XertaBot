@@ -1,0 +1,4 @@
+Welcome to XertaBot.  You can control me sending the following commands:
+
+/help - display this message
+/joke - send a joke
