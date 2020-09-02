@@ -1,0 +1,1 @@
+Small Telegram bot.  It reads simple commands and replies accordingly.  It uses a MySQL database to store users, commands and (boring) jokes.
